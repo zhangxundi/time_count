@@ -6,6 +6,8 @@
 
 添加了常驻在窗口最前端的功能
 
+添加了统计休息和学习时间的功能
+
 ## 环境：
 Python 3  
 import tkinter, time
